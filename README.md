@@ -1,6 +1,9 @@
 # WOHiL Git
 Display the latest release download link, version, and last updated date from a GitHub repository and manage links in the wordpress dashboard.
 
+#### DOWNLOAD:
+https://github.com/wohil/wohilgit/releases
+
 ### Introducing the WOHiL Git Plugin: Seamlessly Integrate GitHub Updates into Your WordPress Dashboard
 
 In the dynamic world of web development, staying updated with the latest versions of tools and plugins is crucial. For WordPress users and developers, integrating GitHub updates directly into their WordPress dashboard can streamline workflows and ensure that they are always using the most current versions. Enter the **WOHiL Git** plugin – a powerful, modern tool designed to bridge the gap between GitHub and WordPress seamlessly.
